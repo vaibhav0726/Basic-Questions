@@ -30,6 +30,5 @@ class TrueOrFalse
 			}
 		}
 		System.out.println(b);
-        
 	}
 }
